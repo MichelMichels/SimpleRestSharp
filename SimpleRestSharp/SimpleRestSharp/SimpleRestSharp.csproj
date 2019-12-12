@@ -8,6 +8,7 @@
     <Description>Simple wrapper for RestSharp</Description>
     <RepositoryUrl>https://github.com/MichelMichels/SimpleRestSharp</RepositoryUrl>
     <PackageTags>RestSharp, Standard, SimpleRestClient</PackageTags>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
