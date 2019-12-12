@@ -15,9 +15,9 @@ namespace SimpleRestSharp.Core
             restClient = new RestClient(baseUrl);
         }
 
-        protected virtual IRestRequest GetRequest(string url, Method method = Method.GET, DataFormat requestFormat = DataFormat.Json, object body = null)
+        protected virtual IRestRequest GetRequest(string resource, Method method = Method.GET, DataFormat requestFormat = DataFormat.Json, object body = null)
         {
-            var request = new RestRequest(url, method)
+            var request = new RestRequest(resource, method)
             {
                 RequestFormat = requestFormat,                              
             };           
