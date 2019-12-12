@@ -9,6 +9,8 @@
     <RepositoryUrl>https://github.com/MichelMichels/SimpleRestSharp</RepositoryUrl>
     <PackageTags>RestSharp, Standard, SimpleRestClient</PackageTags>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Version>1.0.1</Version>
+    <PackageReleaseNotes>- ISimpleRestClient removed as this is unnecessary for an abstract class</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
