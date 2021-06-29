@@ -1,7 +1,6 @@
 ﻿using RestSharp;
 using RestSharp.Serialization.Json;
 using SimpleRestSharp.Exceptions;
-using System;
 
 namespace SimpleRestSharp.Core
 {
