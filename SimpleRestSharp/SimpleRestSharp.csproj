@@ -4,18 +4,18 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Michel Michels</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Copyright>2020 Michel Michels</Copyright>
+    <Copyright>2021 Michel Michels</Copyright>
     <Description>Simple wrapper for RestSharp</Description>
     <RepositoryUrl>https://github.com/MichelMichels/SimpleRestSharp</RepositoryUrl>
     <PackageTags>RestSharp, Standard, SimpleRestClient</PackageTags>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <Version>1.1.1</Version>
-    <PackageReleaseNotes>- RestSharp updated</PackageReleaseNotes>
-    <AssemblyVersion>1.1.1.0</AssemblyVersion>
+    <Version>1.2.0</Version>
+    <PackageReleaseNotes>RestSharp updated 106.15.0</PackageReleaseNotes>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="RestSharp" Version="106.11.7" />
+    <PackageReference Include="RestSharp" Version="106.15.0" />
   </ItemGroup>
 
 </Project>
