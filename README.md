@@ -1,3 +1,8 @@
+> [!WARNING]
+> This repository is archived and deprecated. Please use [`RestSharp`](https://restsharp.dev/) directly or [`HttpClient`](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=net-8.0).
+
+---
+
 [![Nuget](https://img.shields.io/nuget/v/SimpleRestSharp)](https://www.nuget.org/packages/SimpleRestSharp/)
 
 # SimpleRestSharp
